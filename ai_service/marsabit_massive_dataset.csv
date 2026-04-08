@@ -1,0 +1,63 @@
+import csv
+import random
+from datetime import datetime, timedelta
+
+# Realistic components to build complaints
+issues = [
+    ("The taps have been dry for weeks.", "Water & Irrigation", "High"),
+    ("Boda bodas cannot pass the road due to potholes.", "Roads & Infrastructure", "Medium"),
+    ("No malaria drugs at the dispensary.", "Health Services", "High"),
+    ("Need help with business permit renewal.", "Administration", "Low"),
+    ("Mkokoteni guys dumping garbage near the market.", "Environment", "Medium"),
+    ("Borehole pump broke down, cattle have no water.", "Water & Irrigation", "High"),
+    ("Street lights are not working, it is unsafe.", "Roads & Infrastructure", "Medium"),
+    ("No nurse on duty at the clinic.", "Health Services", "High"),
+    ("Water rationing is too extreme in our manyatta.", "Water & Irrigation", "High"),
+    ("When will bursary forms be released?", "Education", "Low"),
+    ("Flash floods swept away the bridge.", "Roads & Infrastructure", "High"),
+    ("Garbage truck missed our estate again.", "Environment", "Medium"),
+    ("Nurses are very rude to patients.", "Health Services", "Medium"),
+    ("Animals dying because river dried up.", "Agriculture & Livestock", "High"),
+    ("Ambulance asked us to pay for fuel.", "Health Services", "High"),
+    ("Drainage blocked, sewage spilling.", "Environment", "High"),
+    ("Locusts invading grazing lands.", "Agriculture & Livestock", "High"),
+    ("Trade license pending for weeks.", "Trade & Enterprise", "Medium"),
+    ("Solar panels for borehole stolen.", "Water & Irrigation", "High"),
+    ("Outbreak of camel disease.", "Agriculture & Livestock", "High")
+]
+
+wards = ["Sagante", "Karare", "Laisamis", "Township", "North Horr", "Moyale", "Saku"]
+
+# Generate 500 rows
+dataset = []
+start_date = datetime(2025, 1, 1)
+
+for i in range(1, 501):
+    issue = random.choice(issues)
+    ward = random.choice(wards)
+    # Randomize time
+    random_days = random.randint(0, 90)
+    random_hours = random.randint(6, 18)
+    random_mins = random.randint(0, 59)
+    created_at = start_date + timedelta(days=random_days, hours=random_hours, minutes=random_mins)
+    
+    # Add some random variety to the text so they don't look exactly identical
+    text = f"{issue[0]} Happens mainly in {ward} area." if random.choice([True, False]) else issue[0]
+    
+    dataset.append([
+        f"CMP-{1000+i}",
+        text,
+        issue[1],
+        issue[2],
+        ward,
+        created_at.strftime("%Y-%m-%d %H:%M:%S")
+    ])
+
+# Save to CSV
+filename = "marsabit_massive_dataset.csv"
+with open(filename, mode='w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["complaint_id", "description", "assigned_department", "priority_level", "location_ward", "created_at"])
+    writer.writerows(dataset)
+
+print(f"Successfully generated 500 synthetic complaints and saved to {filename}!")

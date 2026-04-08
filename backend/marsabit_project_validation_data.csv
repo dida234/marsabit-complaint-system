@@ -1,0 +1,101 @@
+Ticket ID,Citizen Name,Phone,Ward,Complaint Text,Predicted Dept,AI Priority,Date Submitted
+1,Hon Benta Musee,(769)604-8233x9600,Korr,We have not had water in Korr for three days.,Water & Irrigation,Normal,2026-01-29 04:58
+2,Jecinta Koech,(506)679-6203x5842,Marsabit Central,There is a huge pothole on the road to Marsabit Central.,"Roads, Transport & Public Works",Normal,2026-02-06 14:10
+3,Njuguna Mugambi,001-291-949-0747x48439,Turbi,Requesting a meeting with the ward admin of Turbi.,County Administration,Low,2026-02-05 19:02
+4,Jackline Karimi,4113269589,Golbo,The borehole pump in Golbo is broken and needs repair.,Water & Irrigation,High,2026-02-17 07:47
+5,Hon Moses Okoth,(220)493-6067,Korr,I need to renew my business permit for my shop in Korr.,County Administration,Low,2026-02-02 08:31
+6,Caroline Kariuki,+1-996-631-0994x221,Illeret,Garbage is piling up at the Illeret stage.,Environment & Natural Resources,Normal,2026-01-30 10:14
+7,Mr Yussuf Oketch,+1-671-904-2967x63502,Golbo,The road to Golbo is impassable due to heavy rains.,"Roads, Transport & Public Works",Critical,2026-01-18 16:44
+8,Faith Kamau,734-982-1156x50795,Golbo,The bridge at Golbo river is showing cracks.,"Roads, Transport & Public Works",Normal,2026-02-03 00:42
+9,Pastor Joyce Ochieng,001-733-843-8610,Karare,The doctor at Karare clinic comes very late.,Health Services,Normal,2026-02-01 09:49
+10,Mrs Emma Simiyu,465-935-2999x23354,Moyale Township,Loud noise pollution from the bar in Moyale Township.,Environment & Natural Resources,Normal,2026-02-09 07:01
+11,Kimutai Jebet,636-392-5432x7735,Sagante,The doctor at Sagante clinic comes very late.,Health Services,Normal,2026-02-12 22:58
+12,Bishop David Abdi,(984)992-1963x48114,Turbi,The borehole pump in Turbi is broken and needs repair.,Water & Irrigation,High,2026-01-28 13:11
+13,Sis Gladys Chepchumba,+1-743-387-7748,Illeret,We need an ambulance stationed at Illeret urgent care.,Health Services,Normal,2026-02-14 14:23
+14,Carolyne Njoroge,295.510.9928,Turbi,The bridge at Turbi river is showing cracks.,"Roads, Transport & Public Works",Normal,2026-02-17 07:56
+15,James Langat,9902958825,Golbo,Wild animals are destroying crops near Golbo.,Environment & Natural Resources,Normal,2026-01-24 00:43
+16,Mutisya Mboya,001-707-656-0562x9650,Maikona,Someone is dumping waste in the river at Maikona.,Environment & Natural Resources,Normal,2026-02-08 02:21
+17,Caroline Omondi,289-202-3237x70214,Illeret,The doctor at Illeret clinic comes very late.,Health Services,Normal,2026-02-03 15:11
+18,Salim Mwangi,419-299-8337,Illeret,The bridge at Illeret river is showing cracks.,"Roads, Transport & Public Works",Normal,2026-02-05 08:11
+19,Mr Thomas Gathoni,(724)874-5381,Karare,Illegal water connection spotted near Karare primary school.,Water & Irrigation,Normal,2026-01-18 14:56
+20,Mrs Penina Njoroge,650.776.1876x546,Karare,Sanitation levels at Karare hospital are very poor.,Health Services,Normal,2026-02-15 23:52
+21,Mercy Okeyo,815-409-7113x62413,Sololo,Requesting a meeting with the ward admin of Sololo.,County Administration,Low,2026-02-16 19:04
+22,Job Ali,+1-891-990-3431x7480,Sagante,Illegal water connection spotted near Sagante primary school.,Water & Irrigation,Normal,2026-02-09 20:43
+23,Ruth Munene,375.869.8048x44686,Korr,Loud noise pollution from the bar in Korr.,Environment & Natural Resources,Normal,2026-01-28 05:31
+24,Gloria Chepkirui,(278)372-7626,Sololo,There is a huge pothole on the road to Sololo.,"Roads, Transport & Public Works",Normal,2026-02-08 11:39
+25,Pastor Pamela Otieno,747-224-7803x33227,Turbi,No malaria medicine available at the Turbi dispensary.,Health Services,High,2026-01-31 03:33
+26,Rev Robert Chumba,(784)957-8030x845,Karare,Garbage is piling up at the Karare stage.,Environment & Natural Resources,Normal,2026-02-01 07:35
+27,Joseph Omwenga,409.712.6416x5772,Golbo,Illegal water connection spotted near Golbo primary school.,Water & Irrigation,Normal,2026-02-11 17:48
+28,Grace Kimani,001-767-478-7434x721,Marsabit Central,I need to renew my business permit for my shop in Marsabit Central.,County Administration,Low,2026-02-15 08:09
+29,Mr Abraham Muli,525.730.7200x945,Turbi,No malaria medicine available at the Turbi dispensary.,Health Services,High,2026-02-07 02:34
+30,Dr Eric Oyugi,(353)399-0637,Sagante,Illegal water connection spotted near Sagante primary school.,Water & Irrigation,Normal,2026-02-13 15:31
+31,Vivian Wairimu,4303082990,Turbi,Requesting a meeting with the ward admin of Turbi.,County Administration,Low,2026-01-22 00:21
+32,Hannah Kamau,001-531-823-4756x56486,Marsabit Central,Someone is dumping waste in the river at Marsabit Central.,Environment & Natural Resources,Normal,2026-01-31 22:46
+33,Moses Awuor,8753811220,Golbo,We need an ambulance stationed at Golbo urgent care.,Health Services,Normal,2026-02-16 07:28
+34,Ms Jane Mwai,(388)556-3669x86088,Marsabit Central,We need an ambulance stationed at Marsabit Central urgent care.,Health Services,Normal,2026-02-10 18:19
+35,Jackline Ochieng,432-600-2638x61927,Illeret,Sanitation levels at Illeret hospital are very poor.,Health Services,Normal,2026-01-22 17:54
+36,Winnie Wainaina,001-213-603-5856x23420,Karare,Garbage is piling up at the Karare stage.,Environment & Natural Resources,Normal,2026-02-10 10:15
+37,Eng Agnes Katana,623-845-8808,Loglogo,Requesting a meeting with the ward admin of Loglogo.,County Administration,Low,2026-02-06 18:58
+38,Gideon Kemboi,(879)669-7263,Marsabit Central,Illegal water connection spotted near Marsabit Central primary school.,Water & Irrigation,Normal,2026-02-08 07:39
+39,Pastor Festus Njuki,+1-977-979-0184x604,Sololo,No malaria medicine available at the Sololo dispensary.,Health Services,High,2026-02-01 08:04
+40,Esther Jepkosgei,229-374-4939x33078,Moyale Township,There is a huge pothole on the road to Moyale Township.,"Roads, Transport & Public Works",Normal,2026-02-02 06:50
+41,Faith Mburu,+1-458-367-0654x1123,Golbo,Sanitation levels at Golbo hospital are very poor.,Health Services,Normal,2026-02-13 06:39
+42,Evelyne Otieno,+1-389-920-3764x86543,Turbi,I need to renew my business permit for my shop in Turbi.,County Administration,Low,2026-01-22 07:39
+43,Nafula Muimi,544-354-0892x142,Marsabit Central,Wild animals are destroying crops near Marsabit Central.,Environment & Natural Resources,Normal,2026-01-23 13:18
+44,Elijah Kiprotich,420-904-5928x74516,Korr,The water pipe near the Korr market has burst.,Water & Irrigation,Critical,2026-02-08 23:13
+45,Onesmus Mwendwa,001-755-872-1773x1393,Marsabit Central,Illegal water connection spotted near Marsabit Central primary school.,Water & Irrigation,Normal,2026-02-07 05:54
+46,Ouma Kiprotich,666.214.4880x8179,Karare,Someone is dumping waste in the river at Karare.,Environment & Natural Resources,Normal,2026-02-11 05:20
+47,Sis Cynthia Njeru,854.320.8421x1321,North Horr,Illegal water connection spotted near North Horr primary school.,Water & Irrigation,Normal,2026-02-17 03:58
+48,Monica Anyango,(976)853-6256,Maikona,Requesting a meeting with the ward admin of Maikona.,County Administration,Low,2026-01-29 18:35
+49,Christabel Omwenga,354.684.2069x93367,Sololo,Wild animals are destroying crops near Sololo.,Environment & Natural Resources,Normal,2026-02-15 20:53
+50,Peter Ngetich,674.290.2440,Golbo,There is a huge pothole on the road to Golbo.,"Roads, Transport & Public Works",Normal,2026-02-14 20:22
+51,Laureen Cheruiyot,(962)579-5776,Sololo,Sanitation levels at Sololo hospital are very poor.,Health Services,Normal,2026-02-16 11:55
+52,Juma Maloba,(516)210-1768,Sagante,The bridge at Sagante river is showing cracks.,"Roads, Transport & Public Works",Normal,2026-02-09 17:27
+53,Fr Brian Ibrahim,494-529-2125x08412,Korr,Requesting a meeting with the ward admin of Korr.,County Administration,Low,2026-02-02 19:25
+54,Jepchumba Wanyoike,666.299.8834x869,Marsabit Central,Wild animals are destroying crops near Marsabit Central.,Environment & Natural Resources,Normal,2026-02-09 18:45
+55,Caren Chacha,349-661-5820,Karare,The road to Karare is impassable due to heavy rains.,"Roads, Transport & Public Works",Critical,2026-01-27 16:50
+56,Dr Margret Juma,001-499-410-7630x7984,Karare,Loud noise pollution from the bar in Karare.,Environment & Natural Resources,Normal,2026-02-16 22:11
+57,Alex Odhiambo,292.921.9566x119,Loglogo,Garbage is piling up at the Loglogo stage.,Environment & Natural Resources,Normal,2026-02-07 09:27
+58,Eng Jane Mwangi,9417735611,Marsabit Central,Loud noise pollution from the bar in Marsabit Central.,Environment & Natural Resources,Normal,2026-01-29 23:41
+59,Mr Rogers Muchiri,001-246-493-8003x2585,Moyale Township,Illegal water connection spotted near Moyale Township primary school.,Water & Irrigation,Normal,2026-01-21 18:03
+60,Brendah Mwaura,+1-280-565-6429x673,Marsabit Central,Loud noise pollution from the bar in Marsabit Central.,Environment & Natural Resources,Normal,2026-01-19 12:23
+61,Teresa Mwende,3467742940,Sagante,Illegal water connection spotted near Sagante primary school.,Water & Irrigation,Normal,2026-01-22 14:03
+62,Sis Mary Kipkemoi,+1-875-231-6883,Maikona,The road to Maikona is impassable due to heavy rains.,"Roads, Transport & Public Works",Critical,2026-01-21 12:07
+63,Margret Chepchumba,429-479-9609,Illeret,Requesting a meeting with the ward admin of Illeret.,County Administration,Low,2026-01-25 16:01
+64,Adan Omar,4584014207,Sagante,When is the governor visiting Sagante?,County Administration,Normal,2026-02-12 18:53
+65,Mohamed Mwaniki,743-503-5549x792,Maikona,We need an ambulance stationed at Maikona urgent care.,Health Services,Normal,2026-01-31 00:36
+66,Edwin Kanini,(923)784-6779,Karare,Illegal water connection spotted near Karare primary school.,Water & Irrigation,Normal,2026-01-26 16:57
+67,Millicent Karisa,+1-802-396-6346,Illeret,Illegal water connection spotted near Illeret primary school.,Water & Irrigation,Normal,2026-02-10 23:37
+68,Veronicah Auma,(701)926-2290,Korr,Wild animals are destroying crops near Korr.,Environment & Natural Resources,Normal,2026-02-10 00:13
+69,Cosmas Maina,(890)784-5543,North Horr,Requesting a meeting with the ward admin of North Horr.,County Administration,Low,2026-02-14 21:11
+70,Hon John Mwangi,001-320-845-2202x80168,Sagante,The road to Sagante is impassable due to heavy rains.,"Roads, Transport & Public Works",Critical,2026-01-27 07:43
+71,Joseph Ibrahim,648.304.0879,Loglogo,Illegal water connection spotted near Loglogo primary school.,Water & Irrigation,Normal,2026-01-27 19:03
+72,Faith Mutuku,(913)273-4698x2942,Sagante,Garbage is piling up at the Sagante stage.,Environment & Natural Resources,Normal,2026-01-24 22:20
+73,Mary Muia,001-385-668-6171x26827,North Horr,The road to North Horr is impassable due to heavy rains.,"Roads, Transport & Public Works",Critical,2026-02-06 05:36
+74,Ms Tabitha Njoroge,263.519.4615,Karare,Garbage is piling up at the Karare stage.,Environment & Natural Resources,Normal,2026-01-22 07:31
+75,Daudi Ouko,+1-619-407-3201x05538,Korr,Street lights are not working in Korr town center.,"Roads, Transport & Public Works",Normal,2026-02-16 20:05
+76,Dr Kiplangat Odhiambo,935-208-8094x7714,Loglogo,Someone is dumping waste in the river at Loglogo.,Environment & Natural Resources,Normal,2026-02-09 10:16
+77,Rev Dennis Njue,001-206-940-1060,Maikona,The borehole pump in Maikona is broken and needs repair.,Water & Irrigation,High,2026-01-27 09:35
+78,Nancy Mumbua,732-775-9953x155,Golbo,We need an ambulance stationed at Golbo urgent care.,Health Services,Normal,2026-02-02 09:29
+79,Pastor Gloria Murithi,3375198900,Loglogo,Loud noise pollution from the bar in Loglogo.,Environment & Natural Resources,Normal,2026-01-31 04:37
+80,Naomi Salim,001-915-702-3369x55909,Loglogo,The road to Loglogo is impassable due to heavy rains.,"Roads, Transport & Public Works",Critical,2026-02-02 05:53
+81,Daniel Chomba,+1-520-595-9887x830,Marsabit Central,Street lights are not working in Marsabit Central town center.,"Roads, Transport & Public Works",Normal,2026-02-15 05:27
+82,Hon Moreen Kipkoech,860-390-3407x20860,Sagante,Someone is dumping waste in the river at Sagante.,Environment & Natural Resources,Normal,2026-02-03 21:33
+83,Abdallah Aoko,265.203.5293x2130,North Horr,Requesting a meeting with the ward admin of North Horr.,County Administration,Low,2026-02-04 23:45
+84,Rev Lydia Onyango,+1-571-883-9786x935,Marsabit Central,Requesting a meeting with the ward admin of Marsabit Central.,County Administration,Low,2026-02-14 19:17
+85,Doris Muktar,(629)340-4242,Loglogo,How do I apply for the youth fund in Loglogo?,County Administration,Normal,2026-01-26 09:06
+86,Miriam Athman,875.658.9545,Golbo,Loud noise pollution from the bar in Golbo.,Environment & Natural Resources,Normal,2026-01-24 09:16
+87,Irene Chepngeno,+1-981-960-5359x83877,Sagante,Requesting a meeting with the ward admin of Sagante.,County Administration,Low,2026-02-02 19:47
+88,Rev Wekesa Wandera,6745781890,Turbi,The borehole pump in Turbi is broken and needs repair.,Water & Irrigation,High,2026-02-10 01:55
+89,Andrew Omolo,5322619902,Sagante,When is the governor visiting Sagante?,County Administration,Normal,2026-01-25 23:31
+90,Christine Chebii,001-366-683-5236,North Horr,Someone is dumping waste in the river at North Horr.,Environment & Natural Resources,Normal,2026-01-31 17:21
+91,Catherine Makokha,+1-245-975-4347x5476,Maikona,The doctor at Maikona clinic comes very late.,Health Services,Normal,2026-01-24 20:13
+92,Sis Mary Wangari,001-731-264-8939x15196,Karare,No malaria medicine available at the Karare dispensary.,Health Services,High,2026-01-23 21:13
+93,Janet Otieno,668-958-8729x351,Sagante,No malaria medicine available at the Sagante dispensary.,Health Services,High,2026-01-21 08:59
+94,Hon Akinyi Sawe,817.443.2994x248,North Horr,The water pipe near the North Horr market has burst.,Water & Irrigation,Critical,2026-01-27 07:04
+95,Ruth Karambu,785-963-7703x95376,Marsabit Central,Illegal water connection spotted near Marsabit Central primary school.,Water & Irrigation,Normal,2026-01-27 22:51
+96,Prudence Awuor,754-747-1848,Sololo,Street lights are not working in Sololo town center.,"Roads, Transport & Public Works",Normal,2026-01-21 05:54
+97,Silas Mwinzi,229.654.7732x72442,Sagante,We have not had water in Sagante for three days.,Water & Irrigation,Normal,2026-02-09 07:44
+98,Joseph Njoroge,001-914-860-7114x726,Illeret,Illegal water connection spotted near Illeret primary school.,Water & Irrigation,Normal,2026-01-25 12:19
+99,Eng Dennis Kilonzo,3875910494,Illeret,We need an ambulance stationed at Illeret urgent care.,Health Services,Normal,2026-01-26 12:55
+100,Sis Lydiah Kemboi,(514)376-2661,Sololo,When is the governor visiting Sololo?,County Administration,Normal,2026-01-21 20:25

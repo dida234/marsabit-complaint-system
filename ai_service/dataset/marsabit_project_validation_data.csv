@@ -1,0 +1,151 @@
+complaint_id ,citizen_name,description,assigned_department,priority_level,location_ward,created_at
+CMP-1001,    Guyo Halakhe,The community borehole in Karare has broken down. Our cattle have no water.,Water & Irrigation,High,Karare,2025-01-02 08:14:00
+CMP-1002, Qabale Dida,Relief food distribution was unfair in our manyatta.,Administration & Finance,Medium,North Horr,2025-01-03 09:22:00
+CMP-1003,Galgallo Wario,Flash floods have completely washed away the bridge to Sagante.,Roads & Infrastructure,High,Sagante,2025-01-04 10:05:00
+CMP-1004,Fatuma Abdi,The local dispensary ran out of malaria medication three days ago.,Health Services,High,Laisamis,2025-01-05 11:30:00
+CMP-1005,Dida Elema,Mkokoteni guys are dumping garbage near the main market.,Environment,Low,Township,2025-01-06 14:45:00
+CMP-1006,Gumato Jillo,Camel disease outbreak is killing our herds rapidly.,Agriculture & Livestock,High,Maikona,2025-01-07 07:10:00
+CMP-1007,Chachu Roba,Street lights near the Moyale border stage are not working.,Roads & Infrastructure,Medium,Moyale,2025-01-08 18:20:00
+CMP-1008,Halima Tari,When will the county bursary forms for high school be released?,Education & Youth,Low,Saku,2025-01-09 02:15:00
+CMP-1009,Waqo Bonaya,Tractor for grading the feeder road has been parked here for a week.,Roads & Infrastructure,Medium,Uran,2025-01-10 10:10:00
+CMP-1010,Ibrae Koto,Water rationing is too extreme. We only get water once a month.,Water & Irrigation,High,Karare,2025-01-11 08:00:00
+CMP-1011,Amina Hassan,Nurses at the county referral hospital are very rude to patients.,Health Services,Medium,Township,2025-01-12 09:30:00
+CMP-1012,Tura Godana,Solar panels for the community water pump were stolen last night.,Water & Irrigation,High,Laisamis,2025-01-13 11:12:00
+CMP-1013,Rukia Ali,Garbage truck has not collected waste in our estate for two weeks.,Environment,Medium,Township,2025-01-14 14:50:00
+CMP-1014,Boru Ndura,People are encroaching on public land near the primary school.,Lands & Urban Planning,Medium,Sololo,2025-01-15 08:45:00
+CMP-1015,Darmi Galma,Need assistance with registering a youth self-help group.,Education & Youth,Low,Sagante,2025-01-16 10:20:00
+CMP-1016,Huka Bante,Pipes burst near the main road and clean water is just wasting.,Water & Irrigation,High,Moyale,2025-01-17 12:05:00
+CMP-1017,Kule Tache,No vaccines for babies at the health center today.,Health Services,High,Loiyangalani,2025-01-18 15:30:00
+CMP-1018,Abdi Sora,Market stalls are falling apart and need urgent renovation.,Trade & Enterprise,Medium,Moyale,2025-01-19 09:15:00
+CMP-1019,Hussein Dima,Too much dust from the ongoing road construction is affecting business.,Roads & Infrastructure,Low,Laisamis,2025-01-20 11:40:00
+CMP-1020,Nura Dida,The ECDE teachers have not been paid their salaries for two months.,Education & Youth,High,North Horr,2025-01-21 13:20:00
+CMP-1021,Buke Wario,Can I pay my land rates via M-Pesa? The paybill is not working.,Administration & Finance,Low,Township,2025-01-22 16:00:00
+CMP-1022,Elema Guyo,Animals are dying because the seasonal river has dried up. We need a bowser.,Water & Irrigation,High,Laisamis,2025-01-23 08:25:00
+CMP-1023,Galgallo Koto,The ambulance driver asked us to pay for fuel before moving.,Health Services,High,Saku,2025-01-24 10:50:00
+CMP-1024,Jillo Roba,Drainage is blocked and sewage is spilling into the streets.,Environment,High,Township,2025-01-25 14:10:00
+CMP-1025,Qabale Tari,We need speed bumps near the primary school.,Roads & Infrastructure,Medium,Karare,2025-01-26 16:30:00
+CMP-1026,Halakhe Bonaya,The agricultural extension officer has not visited our farms.,Agriculture & Livestock,Low,Sagante,2025-01-27 07:50:00
+CMP-1027,Guyo Dida,Desert locusts have invaded our grazing lands.,Agriculture & Livestock,High,North Horr,2025-01-28 11:20:00
+CMP-1028,Fatuma Wario,There is a dispute over the plot boundary next to the market.,Lands & Urban Planning,Medium,Moyale,2025-01-29 09:00:00
+CMP-1029,Amina Elema,My trade license application has been pending for 3 weeks.,Trade & Enterprise,Medium,Township,2025-01-30 13:45:00
+CMP-1030,Dida Godana,We need more desks for the new ECDE classroom.,Education & Youth,Medium,Sololo,2025-01-31 10:15:00
+CMP-1031,Chachu Guyo,Public toilet at the bus stage is extremely dirty and locked.,Health Services,Medium,Moyale,2025-02-01 12:30:00
+CMP-1032,Gumato Ali,County askaris harassed traders at the open-air market today.,Administration & Finance,High,Township,2025-02-02 08:40:00
+CMP-1033,Wario Ndura,The water pan in our village has completely dried up.,Water & Irrigation,High,Maikona,2025-02-03 11:10:00
+CMP-1034,Halima Koto,No doctors available at the outpatient clinic this morning.,Health Services,High,Laisamis,2025-02-04 14:20:00
+CMP-1035,Galgallo Bante,Boda boda riders are complaining about the huge potholes on the bypass.,Roads & Infrastructure,Medium,Township,2025-02-05 16:50:00
+CMP-1036,Boru Tache,Slaughterhouse is dumping waste near the residential area.,Environment,High,Moyale,2025-02-06 08:15:00
+CMP-1037,Rukia Sora,Our youth group applied for county funding but got no response.,Education & Youth,Low,Sagante,2025-02-07 10:05:00
+CMP-1038,Abdi Dima,Farmers need subsidized fertilizer before the short rains begin.,Agriculture & Livestock,Medium,Saku,2025-02-08 12:45:00
+CMP-1039,Hussein Dida,Corrupt officials are asking for bribes to issue business permits.,Administration & Finance,High,Township,2025-02-09 15:10:00
+CMP-1040,Darmi Wario,The dispensary roof was blown off by strong winds.,Health Services,High,Loiyangalani,2025-02-10 09:20:00
+CMP-1041,Nura Elema,Need a surveyor to resolve a land dispute in the new settlement.,Lands & Urban Planning,Medium,Karare,2025-02-11 11:30:00
+CMP-1042,Huka Godana,Water pipes supplied by the contractor are of very poor quality.,Water & Irrigation,Medium,North Horr,2025-02-12 14:00:00
+CMP-1043,Kule Ali,No maternity beds available at the sub-county hospital.,Health Services,High,Moyale,2025-02-13 16:40:00
+CMP-1044,Buke Ndura,Stray dogs are terrorizing children on their way to school.,Environment,Medium,Township,2025-02-14 08:50:00
+CMP-1045,Elema Tache,The sports stadium construction has stalled for two years.,Education & Youth,Medium,Saku,2025-02-15 10:15:00
+CMP-1046,Guyo Sora,Cattle rustlers stole livestock and the police response is slow.,Administration & Finance,High,Uran,2025-02-16 13:25:00
+CMP-1047,Qabale Dima,The local market lacks clean running water for traders.,Water & Irrigation,Medium,Laisamis,2025-02-17 15:55:00
+CMP-1048,Galgallo Dida,Footbridge collapsed, kids cannot cross the river to school.,Roads & Infrastructure,High,Sololo,2025-02-18 09:05:00
+CMP-1049,Fatuma Elema,We need agricultural training on drought-resistant crops.,Agriculture & Livestock,Low,Sagante,2025-02-19 11:40:00
+CMP-1050,Dida Godana,Expired drugs were given to a patient at the local pharmacy.,Health Services,High,Township,2025-02-20 14:10:00
+CMP-1051,Gumato Ali,Business levies have been increased without public participation.,Trade & Enterprise,Medium,Moyale,2025-02-21 16:30:00
+CMP-1052,Chachu Ndura,The garbage collection point is overflowing and smells toxic.,Environment,High,Karare,2025-02-22 08:20:00
+CMP-1053,Halima Tache,Water bowser from the county only delivered water to the chief's friends.,Water & Irrigation,High,Maikona,2025-02-23 10:45:00
+CMP-1054,Waqo Sora,We need a zebra crossing near the secondary school.,Roads & Infrastructure,Low,Township,2025-02-24 13:15:00
+CMP-1055,Ibrae Dima,Ticks are spreading a new disease among our goats.,Agriculture & Livestock,Medium,North Horr,2025-02-25 15:50:00
+CMP-1056,Amina Dida,Land registry portal is returning error 500 when I try to log in.,Lands & Urban Planning,Low,Saku,2025-02-26 09:30:00
+CMP-1057,Tura Elema,The generator at the hospital has no fuel during blackouts.,Health Services,High,Laisamis,2025-02-27 11:55:00
+CMP-1058,Rukia Godana,Market security guards have not been paid for three months.,Administration & Finance,Medium,Moyale,2025-02-28 14:25:00
+CMP-1059,Boru Ali,We need a youth empowerment center in our ward.,Education & Youth,Low,Sololo,2025-03-01 16:10:00
+CMP-1060,Darmi Ndura,A huge tree fell across the main road blocking all traffic.,Roads & Infrastructure,High,Karare,2025-03-02 08:05:00
+CMP-1061,Huka Tache,People are cutting down trees illegally in the forest reserve.,Environment,High,Saku,2025-03-03 10:35:00
+CMP-1062,Kule Sora,The only borehole in our village produces salty water.,Water & Irrigation,Medium,Loiyangalani,2025-03-04 12:50:00
+CMP-1063,Abdi Dima,Traders are being harassed by tax collectors.,Trade & Enterprise,High,Township,2025-03-05 15:20:00
+CMP-1064,Hussein Dida,A new plot allocation was done secretly without involving the community.,Lands & Urban Planning,High,Moyale,2025-03-06 09:10:00
+CMP-1065,Nura Elema,The hospital lacks a working X-ray machine.,Health Services,High,Township,2025-03-07 11:45:00
+CMP-1066,Buke Godana,Farmers need seeds for the upcoming planting season.,Agriculture & Livestock,Medium,Sagante,2025-03-08 14:15:00
+CMP-1067,Elema Ali,The youth sports tournament was canceled without explanation.,Education & Youth,Low,Laisamis,2025-03-09 16:40:00
+CMP-1068,Galgallo Ndura,Deep potholes on the main highway are causing fatal accidents.,Roads & Infrastructure,High,Moyale,2025-03-10 08:30:00
+CMP-1069,Jillo Tache,Water tariffs have been hiked unfairly.,Water & Irrigation,Medium,Township,2025-03-11 10:55:00
+CMP-1070,Qabale Sora,There is a severe shortage of rabies vaccines after dog bites.,Health Services,High,Karare,2025-03-12 13:25:00
+CMP-1071,Halakhe Dima,Noise pollution from the local clubs is unbearable at night.,Environment,Medium,Township,2025-03-13 15:40:00
+CMP-1072,Guyo Dida,Relief maize supplied was infested with weevils.,Administration & Finance,High,North Horr,2025-03-14 09:20:00
+CMP-1073,Fatuma Elema,We need street lights installed in the new market area.,Roads & Infrastructure,Medium,Sololo,2025-03-15 11:50:00
+CMP-1074,Amina Godana,Veterinary officers are charging for services that should be free.,Agriculture & Livestock,High,Maikona,2025-03-16 14:10:00
+CMP-1075,Dida Ali,The public park is overgrown and being used by criminals.,Lands & Urban Planning,Medium,Saku,2025-03-17 16:30:00
+CMP-1076,Chachu Ndura,The online business permit portal is extremely slow.,Trade & Enterprise,Low,Township,2025-03-18 08:15:00
+CMP-1077,Gumato Tache,Our ECDE center has no roof, kids learn under a tree.,Education & Youth,High,Uran,2025-03-19 10:40:00
+CMP-1078,Wario Sora,The main water tank supplying the town is leaking badly.,Water & Irrigation,High,Township,2025-03-20 13:05:00
+CMP-1079,Halima Dima,Patients are forced to buy syringes from private chemists.,Health Services,High,Moyale,2025-03-21 15:35:00
+CMP-1080,Galgallo Dida,Dust from the quarry is giving children respiratory problems.,Environment,High,Karare,2025-03-22 09:10:00
+CMP-1081,Boru Elema,A corrupt clerk is hiding land title deeds.,Lands & Urban Planning,High,Township,2025-03-23 11:25:00
+CMP-1082,Darmi Godana,We need a cattle dip to help control tick-borne diseases.,Agriculture & Livestock,Medium,Laisamis,2025-03-24 14:00:00
+CMP-1083,Huka Ali,Contractor abandoned the road project halfway through.,Roads & Infrastructure,High,Saku,2025-03-25 16:20:00
+CMP-1084,Kule Ndura,The ward administrator is never in the office to serve people.,Administration & Finance,Medium,Loiyangalani,2025-03-26 08:45:00
+CMP-1085,Abdi Tache,Water rationing schedule is not being followed.,Water & Irrigation,Medium,Township,2025-03-27 11:15:00
+CMP-1086,Hussein Sora,No anti-venom available at the clinic after a snake bite.,Health Services,High,North Horr,2025-03-28 13:40:00
+CMP-1087,Nura Dima,The youth fund applications were misplaced by the county office.,Education & Youth,High,Moyale,2025-03-29 15:55:00
+CMP-1088,Buke Dida,Heavy rains washed away all the market stalls.,Trade & Enterprise,High,Sololo,2025-03-30 09:30:00
+CMP-1089,Elema Elema,Public land meant for a dispensary has been grabbed.,Lands & Urban Planning,High,Karare,2025-03-31 11:45:00
+CMP-1090,Guyo Godana,The agricultural tractor is being used for private business.,Agriculture & Livestock,High,Sagante,2025-04-01 14:10:00
+CMP-1091,Qabale Ali,Sewer pipes have burst near the main hospital gate.,Environment,High,Township,2025-04-02 16:25:00
+CMP-1092,Galgallo Ndura,The rural access road is completely impassable for boda bodas.,Roads & Infrastructure,High,Maikona,2025-04-03 08:50:00
+CMP-1093,Fatuma Tache,Tap water is coming out brown and smells of rust.,Water & Irrigation,High,Moyale,2025-04-04 11:05:00
+CMP-1094,Amina Sora,There are no maternity nurses on the night shift.,Health Services,High,Laisamis,2025-04-05 13:30:00
+CMP-1095,Dida Dima,County revenue collectors are overcharging small traders.,Administration & Finance,High,Township,2025-04-06 15:45:00
+CMP-1096,Chachu Dida,We need a community hall for youth activities.,Education & Youth,Low,Saku,2025-04-07 09:15:00
+CMP-1097,Gumato Elema,Wild animals are destroying our crops and KWS is not helping.,Agriculture & Livestock,High,Karare,2025-04-08 11:35:00
+CMP-1098,Wario Godana,The bridge needs guardrails; a car fell in last week.,Roads & Infrastructure,High,North Horr,2025-04-09 14:00:00
+CMP-1099,Halima Ali,Illegal dumping of medical waste behind the clinic.,Environment,High,Moyale,2025-04-10 16:15:00
+CMP-1100,Galgallo Ndura,We need an extra water bowser during this severe drought.,Water & Irrigation,High,Uran,2025-04-11 08:30:00
+CMP-1101,Boru Tache,The new dispensary has no equipment or staff.,Health Services,High,Sololo,2025-04-12 10:55:00
+CMP-1102,Darmi Sora,Land rates system is charging me double the correct amount.,Lands & Urban Planning,Medium,Township,2025-04-13 13:20:00
+CMP-1103,Huka Dima,Market traders need proper shades to protect goods from the sun.,Trade & Enterprise,Medium,Laisamis,2025-04-14 15:40:00
+CMP-1104,Kule Dida,The bursary allocation list was completely rigged.,Education & Youth,High,Saku,2025-04-15 09:05:00
+CMP-1105,Abdi Elema,Camels are dying from a mysterious skin disease.,Agriculture & Livestock,High,Loiyangalani,2025-04-16 11:25:00
+CMP-1106,Hussein Godana,County officials are using county vehicles for personal errands.,Administration & Finance,Medium,Township,2025-04-17 13:50:00
+CMP-1107,Nura Ali,Potholes on the main road are damaging our vehicles.,Roads & Infrastructure,Medium,Moyale,2025-04-18 16:05:00
+CMP-1108,Buke Ndura,The water kiosk operator is overcharging citizens.,Water & Irrigation,High,Karare,2025-04-19 08:20:00
+CMP-1109,Elema Tache,The hospital mortuary cooler has broken down.,Health Services,High,Township,2025-04-20 10:45:00
+CMP-1110,Guyo Sora,We need a garbage collection bin near the main bus stage.,Environment,Low,Moyale,2025-04-21 13:10:00
+CMP-1111,Qabale Dima,A private developer blocked the public access road.,Lands & Urban Planning,High,Saku,2025-04-22 15:35:00
+CMP-1112,Galgallo Dida,Livestock vaccination program missed our entire ward.,Agriculture & Livestock,High,Maikona,2025-04-23 09:50:00
+CMP-1113,Fatuma Elema,Small businesses are not getting county tenders.,Trade & Enterprise,Medium,Township,2025-04-24 12:15:00
+CMP-1114,Amina Godana,The stadium field is flooded due to poor drainage.,Education & Youth,Low,Moyale,2025-04-25 14:30:00
+CMP-1115,Dida Ali,The county hotline number is always switched off.,Administration & Finance,Medium,Saku,2025-04-26 16:55:00
+CMP-1116,Chachu Ndura,The seasonal river crossing needs a concrete drift.,Roads & Infrastructure,High,North Horr,2025-04-27 08:15:00
+CMP-1117,Gumato Tache,The water pump generator ran out of fuel three days ago.,Water & Irrigation,High,Laisamis,2025-04-28 10:40:00
+CMP-1118,Wario Sora,There is a severe shortage of gloves and cotton wool at the clinic.,Health Services,High,Sololo,2025-04-29 13:00:00
+CMP-1119,Halima Dima,People are illegally burning charcoal in the forest.,Environment,High,Karare,2025-04-30 15:25:00
+CMP-1120,Galgallo Dida,Pasture land has been fenced off by a private individual.,Lands & Urban Planning,High,Uran,2025-05-01 09:40:00
+CMP-1121,Boru Elema,We need agricultural extension officers to teach modern farming.,Agriculture & Livestock,Low,Sagante,2025-05-02 11:55:00
+CMP-1122,Darmi Godana,Women's groups are not getting access to the enterprise fund.,Trade & Enterprise,Medium,Township,2025-05-03 14:15:00
+CMP-1123,Huka Ali,The primary school roof blew off and needs county emergency funds.,Education & Youth,High,Loiyangalani,2025-05-04 16:35:00
+CMP-1124,Kule Ndura,The new bypass road has no drainage and floods our homes.,Roads & Infrastructure,High,Moyale,2025-05-05 08:50:00
+CMP-1125,Abdi Tache,We have not received clean water for two whole weeks.,Water & Irrigation,High,Saku,2025-05-06 11:10:00
+CMP-1126,Hussein Sora,An ambulance was used to ferry building materials.,Health Services,High,Township,2025-05-07 13:30:00
+CMP-1127,Nura Dima,The public cemetery is full and we need a new designated site.,Lands & Urban Planning,High,Karare,2025-05-08 15:45:00
+CMP-1128,Buke Dida,Street children are sleeping in the open market.,Administration & Finance,Medium,Township,2025-05-09 09:10:00
+CMP-1129,Elema Elema,Farmers need pesticides for the recent armyworm invasion.,Agriculture & Livestock,High,Laisamis,2025-05-10 11:25:00
+CMP-1130,Guyo Godana,The slaughterhouse has no running water for cleaning.,Environment,High,Moyale,2025-05-11 13:50:00
+CMP-1131,Qabale Ali,Need county support to host the regional youth athletics.,Education & Youth,Low,Saku,2025-05-12 16:15:00
+CMP-1132,Galgallo Ndura,The main trading center has no public toilets.,Health Services,Medium,North Horr,2025-05-13 08:35:00
+CMP-1133,Fatuma Tache,Boda boda operators are protesting high daily county levies.,Trade & Enterprise,High,Township,2025-05-14 10:55:00
+CMP-1134,Amina Sora,The water reservoir tank is completely rusted inside.,Water & Irrigation,Medium,Maikona,2025-05-15 13:10:00
+CMP-1135,Dida Dima,Road construction trucks are speeding through the village.,Roads & Infrastructure,High,Karare,2025-05-16 15:35:00
+CMP-1136,Chachu Dida,The chief's office needs renovation, the roof is leaking.,Administration & Finance,Low,Sololo,2025-05-17 09:45:00
+CMP-1137,Gumato Elema,No clear boundaries between the market and residential plots.,Lands & Urban Planning,Medium,Uran,2025-05-18 12:05:00
+CMP-1138,Wario Godana,The cattle dip is empty and needs chemicals.,Agriculture & Livestock,High,Sagante,2025-05-19 14:25:00
+CMP-1139,Halima Ali,Plastic bags are clogging the main town drainage.,Environment,Medium,Township,2025-05-20 16:45:00
+CMP-1140,Galgallo Ndura,We need a laboratory technician at the local health center.,Health Services,High,Laisamis,2025-05-21 08:50:00
+CMP-1141,Boru Tache,The newly drilled borehole yielded no water.,Water & Irrigation,High,Loiyangalani,2025-05-22 11:15:00
+CMP-1142,Darmi Sora,We need speed limit signs near the hospital junction.,Roads & Infrastructure,Low,Moyale,2025-05-23 13:30:00
+CMP-1143,Huka Dima,Youth polytechnic lacks basic tools for carpentry students.,Education & Youth,Medium,Saku,2025-05-24 15:55:00
+CMP-1144,Kule Dida,Market fees are collected but the market is never swept.,Trade & Enterprise,Medium,Township,2025-05-25 09:20:00
+CMP-1145,Abdi Elema,Illegal sand harvesting is destroying the riverbed.,Environment,High,Karare,2025-05-26 11:35:00
+CMP-1146,Hussein Godana,The title deed process is too slow and bureaucratic.,Lands & Urban Planning,Medium,North Horr,2025-05-27 13:50:00
+CMP-1147,Nura Ali,Patients are sharing beds at the maternal ward.,Health Services,High,Moyale,2025-05-28 16:10:00
+CMP-1148,Buke Ndura,We need a new bridge; the wooden one is rotting.,Roads & Infrastructure,High,Sagante,2025-05-29 08:25:00
+CMP-1149,Elema Tache,County administrators are ignoring our petitions.,Administration & Finance,High,Township,2025-05-30 10:45:00
+CMP-1150,Guyo Sora,Solar pump was repaired but broke down again the next day.,Water & Irrigation,High,Maikona,2025-05-31 13:00:00
